@@ -4,7 +4,7 @@ email: ""
 description: "Photo Journal"
 url: "https://carmenpareras.com"
 enforce_ssl: "carmenpareras.com"
-baseurl: "/carmenpareras"
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://carmenpareras.com/carmenpareras/gallery/"  
+  - GALLERY: "https://carmenpareras.com/gallery/"  
 #  - JOURNAL: "https://carmenpareras.com/carmenpareras/journal/"
-  - ABOUT: "https://carmenpareras.com/carmenpareras/about/"
+  - ABOUT: "https://carmenpareras.com/about/"
 
 # All translation keys
 translations:
