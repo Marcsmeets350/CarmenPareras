@@ -3,6 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://carmenpareras.com"
+enforce_ssl: "https://carmenpareras.com"
 baseurl: "/keramiek"
 facebook_username: ""
 twitter_username: ""
