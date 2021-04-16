@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://carmenpareras.com/keramiek/gallery/"  
-#  - JOURNAL: "https://carmenpareras.com/keramiek/journal/"
-  - ABOUT: "https://carmenpareras.com/keramiek/about/"
+  - GALLERY: "https://carmenpareras.com/carmenpareras/gallery/"  
+#  - JOURNAL: "https://carmenpareras.com/carmenpareras/journal/"
+  - ABOUT: "https://carmenpareras.com/carmenpareras/about/"
 
 # All translation keys
 translations:
