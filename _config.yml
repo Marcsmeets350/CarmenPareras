@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: Carmen Pareras Keramiek
 email: ""
-description: "Photo Journal"
+description: "Keramiek Website"
 url: "https://carmenpareras.com"
 enforce_ssl: "carmenpareras.com"
 baseurl: ""
@@ -16,10 +16,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Carmen Pareras
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Keramiek website template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
