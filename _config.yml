@@ -36,7 +36,7 @@ comments :
 nav:
   - GALLERY: "https://carmenpareras.com/gallery/"  
 #  - JOURNAL: "https://carmenpareras.com/carmenpareras/journal/"
-  - ABOUT: "https://carmenpareras.com/about/"
+  - CONTACT: "https://carmenpareras.com/contact/"
 
 # All translation keys
 translations:
